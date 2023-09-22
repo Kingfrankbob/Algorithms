@@ -1,0 +1,15 @@
+C:\Users\ajwpc\Github\Algorithms\HilbertCurve\bin\Debug\net7.0-windows\HilbertCurve.exe
+C:\Users\ajwpc\Github\Algorithms\HilbertCurve\bin\Debug\net7.0-windows\HilbertCurve.deps.json
+C:\Users\ajwpc\Github\Algorithms\HilbertCurve\bin\Debug\net7.0-windows\HilbertCurve.runtimeconfig.json
+C:\Users\ajwpc\Github\Algorithms\HilbertCurve\bin\Debug\net7.0-windows\HilbertCurve.dll
+C:\Users\ajwpc\Github\Algorithms\HilbertCurve\bin\Debug\net7.0-windows\HilbertCurve.pdb
+C:\Users\ajwpc\Github\Algorithms\HilbertCurve\obj\Debug\net7.0-windows\HilbertCurve.csproj.AssemblyReference.cache
+C:\Users\ajwpc\Github\Algorithms\HilbertCurve\obj\Debug\net7.0-windows\HilbertCurve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajwpc\Github\Algorithms\HilbertCurve\obj\Debug\net7.0-windows\HilbertCurve.AssemblyInfoInputs.cache
+C:\Users\ajwpc\Github\Algorithms\HilbertCurve\obj\Debug\net7.0-windows\HilbertCurve.AssemblyInfo.cs
+C:\Users\ajwpc\Github\Algorithms\HilbertCurve\obj\Debug\net7.0-windows\HilbertCurve.csproj.CoreCompileInputs.cache
+C:\Users\ajwpc\Github\Algorithms\HilbertCurve\obj\Debug\net7.0-windows\HilbertCurve.dll
+C:\Users\ajwpc\Github\Algorithms\HilbertCurve\obj\Debug\net7.0-windows\refint\HilbertCurve.dll
+C:\Users\ajwpc\Github\Algorithms\HilbertCurve\obj\Debug\net7.0-windows\HilbertCurve.pdb
+C:\Users\ajwpc\Github\Algorithms\HilbertCurve\obj\Debug\net7.0-windows\HilbertCurve.genruntimeconfig.cache
+C:\Users\ajwpc\Github\Algorithms\HilbertCurve\obj\Debug\net7.0-windows\ref\HilbertCurve.dll

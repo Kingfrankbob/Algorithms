@@ -1,0 +1,15 @@
+C:\Users\ajwpc\Github\Algorithms\DragonCurve\obj\Debug\net7.0-windows\DragonCurve.csproj.AssemblyReference.cache
+C:\Users\ajwpc\Github\Algorithms\DragonCurve\obj\Debug\net7.0-windows\DragonCurve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajwpc\Github\Algorithms\DragonCurve\obj\Debug\net7.0-windows\DragonCurve.AssemblyInfoInputs.cache
+C:\Users\ajwpc\Github\Algorithms\DragonCurve\obj\Debug\net7.0-windows\DragonCurve.AssemblyInfo.cs
+C:\Users\ajwpc\Github\Algorithms\DragonCurve\obj\Debug\net7.0-windows\DragonCurve.csproj.CoreCompileInputs.cache
+C:\Users\ajwpc\Github\Algorithms\DragonCurve\bin\Debug\net7.0-windows\DragonCurve.exe
+C:\Users\ajwpc\Github\Algorithms\DragonCurve\bin\Debug\net7.0-windows\DragonCurve.deps.json
+C:\Users\ajwpc\Github\Algorithms\DragonCurve\bin\Debug\net7.0-windows\DragonCurve.runtimeconfig.json
+C:\Users\ajwpc\Github\Algorithms\DragonCurve\bin\Debug\net7.0-windows\DragonCurve.dll
+C:\Users\ajwpc\Github\Algorithms\DragonCurve\bin\Debug\net7.0-windows\DragonCurve.pdb
+C:\Users\ajwpc\Github\Algorithms\DragonCurve\obj\Debug\net7.0-windows\DragonCurve.dll
+C:\Users\ajwpc\Github\Algorithms\DragonCurve\obj\Debug\net7.0-windows\refint\DragonCurve.dll
+C:\Users\ajwpc\Github\Algorithms\DragonCurve\obj\Debug\net7.0-windows\DragonCurve.pdb
+C:\Users\ajwpc\Github\Algorithms\DragonCurve\obj\Debug\net7.0-windows\DragonCurve.genruntimeconfig.cache
+C:\Users\ajwpc\Github\Algorithms\DragonCurve\obj\Debug\net7.0-windows\ref\DragonCurve.dll
